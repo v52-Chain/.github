@@ -213,7 +213,7 @@ That is the part we care about: an investigation whose authority comes from its 
 
 ## Team
 
-Built in Bolivia by four people.
+Built in Bolivia by five people.
 
 | Member | Ownership |
 |---|---|
@@ -221,6 +221,7 @@ Built in Bolivia by four people.
 | **Franco** | Backend and Evidence Core, Alchemy RPC, reconciliation, packaging, tests |
 | **Saúl** | The Graph, contracts and deployments, x402 and relayer infrastructure, subgraph |
 | **Jhamil** | Frontend co-development, Agent Access experience, MCP contract and states |
+| **Alejandro** | AI and LLM systems, privacy and security |
 
 ## Engineering standards we hold ourselves to
 
